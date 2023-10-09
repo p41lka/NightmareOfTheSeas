@@ -1,0 +1,8 @@
+{
+	"BuildId": "25360045",
+	"Modules": 
+	{
+		"QuestEditor": "UnrealEditor-QuestEditor.dll",
+		"QuestEditorDev": "UnrealEditor-QuestEditorDev.dll"
+	}
+}

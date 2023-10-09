@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"../../../arm64/UnrealGame/Development/DialogueSx/Module.DialogueSx.cpp.o",
+		"../../../arm64/UnrealGame/Development/DialogueSx/Module.DialogueSx.cpp.o",
+		"../../../x64/UnrealGame/Development/DialogueSx/Module.DialogueSx.cpp.o",
+		"../../../x64/UnrealGame/Development/DialogueSx/Module.DialogueSx.cpp.o"
+	]
+}
