@@ -6,7 +6,7 @@
 /NAME:"UnrealEditor-DialogueEditor.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"D:\GitHub\NightmareOfTheSeas\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
-"D:\GitHub\NightmareOfTheSeas\Plugins\DialogueSystemX\Intermediate\Build\Win64\x64\UnrealEditor\Development\DialogueEditor\Module.DialogueEditor.cpp.obj"
-"D:\GitHub\NightmareOfTheSeas\Plugins\DialogueSystemX\Intermediate\Build\Win64\x64\UnrealEditor\Development\DialogueEditor\Default.rc2.res"
-/OUT:"D:\GitHub\NightmareOfTheSeas\Plugins\DialogueSystemX\Intermediate\Build\Win64\x64\UnrealEditor\Development\DialogueEditor\UnrealEditor-DialogueEditor.lib"
+"C:\Users\Алиса\Documents\Unreal Projects\NightmareOfTheSeas\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\Users\Алиса\Documents\Unreal Projects\NightmareOfTheSeas\Plugins\DialogueSystemX\Intermediate\Build\Win64\x64\UnrealEditor\Development\DialogueEditor\Module.DialogueEditor.cpp.obj"
+"C:\Users\Алиса\Documents\Unreal Projects\NightmareOfTheSeas\Plugins\DialogueSystemX\Intermediate\Build\Win64\x64\UnrealEditor\Development\DialogueEditor\Default.rc2.res"
+/OUT:"C:\Users\Алиса\Documents\Unreal Projects\NightmareOfTheSeas\Plugins\DialogueSystemX\Intermediate\Build\Win64\x64\UnrealEditor\Development\DialogueEditor\UnrealEditor-DialogueEditor.lib"

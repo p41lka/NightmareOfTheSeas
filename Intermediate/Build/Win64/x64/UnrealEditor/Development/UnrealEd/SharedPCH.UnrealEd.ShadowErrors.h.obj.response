@@ -1,4 +1,4 @@
-D:\GitHub\NightmareOfTheSeas\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.cpp
+"C:\Users\Алиса\Documents\Unreal Projects\NightmareOfTheSeas\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.cpp"
 /I .
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\UnrealEd\UHT
 /I Programs\UnrealLightmass\Public
@@ -281,15 +281,15 @@ D:\GitHub\NightmareOfTheSeas\Intermediate\Build\Win64\x64\UnrealEditor\Developme
 /external:I ThirdParty\mimalloc\include
 /external:I ThirdParty\LibTiff\Source\Win64
 /external:I ThirdParty\LibTiff\Source
-/external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\INCLUDE"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\winrt"
-/Yc"D:\GitHub\NightmareOfTheSeas\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
-/Fp"D:\GitHub\NightmareOfTheSeas\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.pch"
-/Fo"D:\GitHub\NightmareOfTheSeas\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
-/sourceDependencies D:\GitHub\NightmareOfTheSeas\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.dep.json
+/external:I D:\KILLME\VC\Tools\MSVC\14.37.32822\INCLUDE
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
+/Yc"C:\Users\Алиса\Documents\Unreal Projects\NightmareOfTheSeas\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
+/Fp"C:\Users\Алиса\Documents\Unreal Projects\NightmareOfTheSeas\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.pch"
+/Fo"C:\Users\Алиса\Documents\Unreal Projects\NightmareOfTheSeas\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+/sourceDependencies "C:\Users\Алиса\Documents\Unreal Projects\NightmareOfTheSeas\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.dep.json"
 /Zc:inline
 /nologo
 /Oi

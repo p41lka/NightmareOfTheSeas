@@ -1,9 +1,9 @@
 {
 	"SourceFiles": [
-		"D:\\GitHub\\NightmareOfTheSeas\\Plugins\\DialogueSystemX\\Source\\DialogueEditor\\DialogueEditor.build.cs",
-		"D:\\GitHub\\NightmareOfTheSeas\\Plugins\\DialogueSystemX\\Source\\DialogueSx\\DialogueSx.Build.cs",
-		"D:\\GitHub\\NightmareOfTheSeas\\Plugins\\QuestEditor\\Source\\QuestEditor\\QuestEditor.Build.cs",
-		"D:\\GitHub\\NightmareOfTheSeas\\Plugins\\QuestEditor\\Source\\QuestEditorDev\\QuestEditorDev.Build.cs"
+		"C:\\Users\\Алиса\\Documents\\Unreal Projects\\NightmareOfTheSeas\\Plugins\\DialogueSystemX\\Source\\DialogueSx\\DialogueSx.Build.cs",
+		"C:\\Users\\Алиса\\Documents\\Unreal Projects\\NightmareOfTheSeas\\Plugins\\DialogueSystemX\\Source\\DialogueEditor\\DialogueEditor.build.cs",
+		"C:\\Users\\Алиса\\Documents\\Unreal Projects\\NightmareOfTheSeas\\Plugins\\QuestEditor\\Source\\QuestEditor\\QuestEditor.Build.cs",
+		"C:\\Users\\Алиса\\Documents\\Unreal Projects\\NightmareOfTheSeas\\Plugins\\QuestEditor\\Source\\QuestEditorDev\\QuestEditorDev.Build.cs"
 	],
 	"EngineVersion": "5.2.1"
 }

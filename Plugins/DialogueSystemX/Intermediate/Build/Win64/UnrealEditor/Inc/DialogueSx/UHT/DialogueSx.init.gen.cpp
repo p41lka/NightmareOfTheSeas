@@ -27,7 +27,7 @@ void EmptyLinkFunctionForGeneratedCodeDialogueSx_init() {}
 				SingletonFuncArray,
 				UE_ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-				0x06A51F24,
+				0x4B07595C,
 				0xE1FFED7B,
 				METADATA_PARAMS(nullptr, 0)
 			};
@@ -35,5 +35,5 @@ void EmptyLinkFunctionForGeneratedCodeDialogueSx_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_DialogueSx.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_DialogueSx(Z_Construct_UPackage__Script_DialogueSx, TEXT("/Script/DialogueSx"), Z_Registration_Info_UPackage__Script_DialogueSx, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x06A51F24, 0xE1FFED7B));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_DialogueSx(Z_Construct_UPackage__Script_DialogueSx, TEXT("/Script/DialogueSx"), Z_Registration_Info_UPackage__Script_DialogueSx, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x4B07595C, 0xE1FFED7B));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

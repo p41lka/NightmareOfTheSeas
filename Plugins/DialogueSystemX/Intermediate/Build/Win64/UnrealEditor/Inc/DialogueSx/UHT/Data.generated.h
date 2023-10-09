@@ -14,21 +14,21 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define DIALOGUESX_Data_generated_h
 
-#define FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_DialogueSx_Source_DialogueSx_Public_Data_Data_h_19_GENERATED_BODY \
+#define FID_NightmareOfTheSeas_Plugins_DialogueSystemX_Source_DialogueSx_Public_Data_Data_h_19_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FEdgeStruct_Statics; \
 	DIALOGUESX_API static class UScriptStruct* StaticStruct();
 
 
 template<> DIALOGUESX_API UScriptStruct* StaticStruct<struct FEdgeStruct>();
 
-#define FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_DialogueSx_Source_DialogueSx_Public_Data_Data_h_59_GENERATED_BODY \
+#define FID_NightmareOfTheSeas_Plugins_DialogueSystemX_Source_DialogueSx_Public_Data_Data_h_59_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FDataStruct_Statics; \
 	DIALOGUESX_API static class UScriptStruct* StaticStruct();
 
 
 template<> DIALOGUESX_API UScriptStruct* StaticStruct<struct FDataStruct>();
 
-#define FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_DialogueSx_Source_DialogueSx_Public_Data_Data_h_96_GENERATED_BODY \
+#define FID_NightmareOfTheSeas_Plugins_DialogueSystemX_Source_DialogueSx_Public_Data_Data_h_96_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FDialogueDataStruct_Statics; \
 	DIALOGUESX_API static class UScriptStruct* StaticStruct(); \
 	typedef FTableRowBase Super;
@@ -36,7 +36,7 @@ template<> DIALOGUESX_API UScriptStruct* StaticStruct<struct FDataStruct>();
 
 template<> DIALOGUESX_API UScriptStruct* StaticStruct<struct FDialogueDataStruct>();
 
-#define FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_DialogueSx_Source_DialogueSx_Public_Data_Data_h_129_GENERATED_BODY \
+#define FID_NightmareOfTheSeas_Plugins_DialogueSystemX_Source_DialogueSx_Public_Data_Data_h_129_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FPropertyStruct_Statics; \
 	DIALOGUESX_API static class UScriptStruct* StaticStruct();
 
@@ -44,7 +44,7 @@ template<> DIALOGUESX_API UScriptStruct* StaticStruct<struct FDialogueDataStruct
 template<> DIALOGUESX_API UScriptStruct* StaticStruct<struct FPropertyStruct>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_DialogueSx_Source_DialogueSx_Public_Data_Data_h
+#define CURRENT_FILE_ID FID_NightmareOfTheSeas_Plugins_DialogueSystemX_Source_DialogueSx_Public_Data_Data_h
 
 
 #define FOREACH_ENUM_ESIGN(op) \
