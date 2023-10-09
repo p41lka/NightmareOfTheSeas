@@ -1,0 +1,19 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DialogueEditor.cpp.obj": [
+			"DialogueEditor.init.gen.cpp.obj",
+			"DialogueFactory.gen.cpp.obj",
+			"DialogueFactoryFile.gen.cpp.obj",
+			"DialogueFactoryReimport.gen.cpp.obj",
+			"FactoryFunctions.gen.cpp.obj",
+			"Actions.cpp.obj",
+			"FunctionsActions.cpp.obj",
+			"DialogueEditor.cpp.obj",
+			"DialogueFactory.cpp.obj",
+			"DialogueFactoryFile.cpp.obj",
+			"DialogueFactoryReimport.cpp.obj",
+			"FactoryFunctions.cpp.obj"
+		]
+	}
+}

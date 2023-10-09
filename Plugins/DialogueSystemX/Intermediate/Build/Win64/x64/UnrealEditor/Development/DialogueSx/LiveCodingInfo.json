@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DialogueSx.cpp.obj": [
+			"Data.gen.cpp.obj",
+			"DialogueDataTable.gen.cpp.obj",
+			"DialogueFunctions.gen.cpp.obj",
+			"DialogueLibrary.gen.cpp.obj",
+			"DialogueSx.init.gen.cpp.obj",
+			"DialogueWidget.gen.cpp.obj",
+			"DialogueFunctions.cpp.obj",
+			"DialogueLibrary.cpp.obj",
+			"DialogueSx.cpp.obj",
+			"DialogueWidget.cpp.obj"
+		]
+	}
+}
